@@ -5,5 +5,5 @@ categories: [Pinni, Khoya]
 image: "pinni.jpg"
 ---
 
-![](pinni.jpg){.nolightbox fig-align="center" style="margin-top: 0px; width: 800px; height: auto;"}
+![](pinni.jpg){.nolightbox fig-align="center" style="margin-top: 0px; width: 600px; height: auto;"}
 
