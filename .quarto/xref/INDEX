@@ -1,72 +1,41 @@
 {
   "about.qmd": {
-    "about.html": "09d87113"
-  },
-  "index.qmd": {
-    "index.html": "bd5f84c5",
-    "index.tex": "f705c670"
-  },
-  "404.qmd": {
-    "404.html": "80ce27c6"
+    "about.html": "fec6ab3d"
   },
   "contact.qmd": {
-    "contact.html": "02950028"
-  },
-  "gallary.qmd": {
-    "gallary.html": "d94560b8"
-  },
-  "home.qmd": {
-    "home.html": "f0e08b2c"
-  },
-  "products/barfi/barfi.qmd": {
-    "barfi.html": "d14fa786"
-  },
-  "products/index.qmd": {
-    "index.html": "31093d5c"
-  },
-  "products/khoya/khoya.qmd": {
-    "khoya.html": "0483b21b"
-  },
-  "products/ladoo/ladoo.qmd": {
-    "ladoo.html": "360c9498"
-  },
-  "products/pinnian/pinnian.qmd": {
-    "pinnian.html": "faba02f3"
-  },
-  "docs/products/barfi/barfi.qmd": {
-    "barfi.html": "394c7cce"
+    "contact.html": "d6364cc4"
   },
   "ethics.qmd": {
-    "ethics.html": "51072a6b"
+    "ethics.html": "3913636c"
+  },
+  "gallary.qmd": {
+    "gallary.html": "120b8437"
+  },
+  "home.qmd": {
+    "home.html": "4cf9625b"
+  },
+  "index.qmd": {
+    "index.html": "72d0224b"
   },
   "policy.qmd": {
-    "policy.html": "a78e0c3e"
+    "policy.html": "1270ab0a"
   },
-  "terms.qmd": {
-    "terms.html": "48d73e46"
+  "products/barfi/barfi.qmd": {
+    "barfi.html": "7ebeb09e"
   },
-  "docs/terms.qmd": {
-    "terms.html": "10366197"
+  "products/khoya/khoya.qmd": {
+    "khoya.html": "7e443092"
   },
-  "docs/docs/docs/docs/products/barfi/barfi.qmd": {
-    "barfi.html": "3e9aba5a"
+  "products/ladoo/ladoo.qmd": {
+    "ladoo.html": "5f8cf3e2"
   },
-  "docs/docs/docs/docs/docs/products/barfi/barfi.qmd": {
-    "barfi.html": "a5d22b46"
-  },
-  "docs/docs/docs/products/barfi/barfi.qmd": {
-    "barfi.html": "2d5baa49"
-  },
-  "docs/docs/docs/docs/docs/docs/docs/docs/products/barfi/barfi.qmd": {
-    "barfi.html": "e1a66d6b"
-  },
-  "docs/docs/docs/docs/docs/docs/docs/docs/docs/docs/docs/docs/docs/products/barfi/barfi.qmd": {
-    "barfi.html": "b08dc915"
-  },
-  "products/test.qmd": {
-    "test.html": "e78a432b"
+  "products/pinnian/pinnian.qmd": {
+    "pinnian.html": "f4857fdd"
   },
   "products/til_ladoo/til_ladoo.qmd": {
-    "til_ladoo.html": "b30296fe"
+    "til_ladoo.html": "e6db9907"
+  },
+  "terms.qmd": {
+    "terms.html": "e31577c4"
   }
 }
