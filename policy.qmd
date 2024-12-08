@@ -1,0 +1,105 @@
+# Desi Pinnia Privacy Policy
+
+At Desi Pinnia, we prioritize the protection of your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data in compliance with the Personal Information Protection and Electronic Documents Act (PIPEDA) and other applicable Canadian laws.
+
+## 1. Collection of Personal Information
+
+We collect personal information only for legitimate business purposes. The types of information we may collect include:
+
+-   **Contact Information**: Name, address, phone number, email.
+
+-   **Financial Information**: Payment details required for billing our services.
+
+-   **Business Information**: Details about your business if you're working with us.
+
+-   **Technical Information**: IP addresses, browsing data, cookies, etc., collected while using our website.
+
+### Consent:
+
+We collect personal information with your consent. By providing your information, you agree to its use as outlined in this Privacy Policy.
+
+## 2. Use of Personal Information
+
+We use the personal information collected for the following purposes:
+
+-   **Service Delivery**: To manage and fulfill our contracts with clients.
+
+-   **Communication**: To respond to inquiries and share information about our products and services.
+
+-   **Billing and Payments**: To process financial transactions.
+
+-   **Website and Service Improvement**: To analyze website usage and improve the user experience.
+
+-   **Legal Compliance**: To meet legal and regulatory requirements.
+
+We are committed to using personal information solely for legitimate business purposes and in accordance with applicable laws.
+
+## 3. Disclosure of Personal Information
+
+We do not disclose your personal information to third parties without your consent, except in the following cases:
+
+-   **Third-Party Service Providers**: We may share information with partners or vendors who help us deliver services (e.g., payment processing, website hosting).
+
+-   **Legal Obligations**: We may be required to disclose your personal information if mandated by law or in response to legitimate government requests.
+
+-   **Mergers or Acquisitions**: If we undergo a merger, acquisition, or sale of assets, your information may be transferred to the new entity.
+
+We ensure that all third parties comply with applicable privacy laws and security standards.
+
+## 4. Retention of Personal Information
+
+We retain personal information for as long as necessary to fulfill the purposes outlined in this policy or as required by law. Once information is no longer needed, we securely destroy or anonymize it.
+
+## 5. Security of Personal Information
+
+We take appropriate security measures to protect your personal information from unauthorized access, loss, disclosure, or alteration. These include:
+
+-   **Access Controls**: Limiting access to employees and vendors who need the information to perform their duties.
+
+-   **Encryption**: Protecting sensitive data during transmission.
+
+-   **Monitoring**: Regularly assessing our systems to detect and prevent breaches.
+
+While we take reasonable precautions, no method of transmission or storage is entirely secure, and we cannot guarantee absolute security.
+
+## 6. Cookies and Tracking Technologies
+
+Our website uses cookies and similar technologies to enhance your experience. Cookies are small files stored on your device that help us collect information like your IP address and browsing habits.
+
+Types of cookies we use:
+
+-   **Essential Cookies**: Necessary for the website’s functionality.
+
+-   **Performance Cookies**: To analyze site usage and improve functionality.
+
+-   **Marketing Cookies**: To provide personalized content and advertisements.
+
+You can configure your browser to refuse or delete cookies, but this may affect certain website functionalities.
+
+## 7. User Rights
+
+Under PIPEDA and other Canadian laws, you have the following rights concerning your personal information:
+
+-   **Access**: You can request access to the personal information we hold.
+
+-   **Correction**: You have the right to correct inaccurate or incomplete information.
+
+-   **Withdrawal of Consent**: You may withdraw your consent for the use of your personal information at any time, subject to legal or contractual obligations.
+
+-   **Deletion**: You can request the deletion of your information, subject to legal retention requirements.
+
+To exercise these rights, please contact us using the information provided below.
+
+## 8. International Data Transfers
+
+Desi Pinnia may transfer your personal information to service providers outside of Canada. In these cases, we ensure appropriate safeguards are in place to maintain a level of protection equivalent to Canadian privacy laws.
+
+## 9. Changes to the Privacy Policy
+
+We may update this Privacy Policy periodically to reflect changes in our practices or to comply with legal developments. Any changes will be posted on our website, and the date of the latest update will be indicated.
+
+## 10. Contact
+
+If you have questions or concerns about this Privacy Policy or how we handle your personal information, please contact us at:
+
+**Email:** \[info\@desipinnia.com\](mailto:info\@desipinnia.com)

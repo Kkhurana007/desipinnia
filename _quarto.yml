@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 4200
+
+website:
+  page-navigation: true
+  title: "desi_pinnian"
+  page-footer:
+    left:
+      - text: Ethics
+        href: ethics.qmd
+      - text: Privacy policy
+        href: policy.qmd
+      - text: Terms of Service
+        href: terms.qmd
+    
+    center: |
+      @2024 Desi Pinnia. <br>
+       All rights reserved. <br>
+       Website made by [Kunal](https://ilovesoils.com/about.html).
+  
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/pinnia.ca/
+      - icon: twitter
+        href: https://twitter.com
+      - icon: envelope
+        href: mailto:Khuranasoilpau@gmail.com
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Us
+      - href: contact.qmd
+        text: Contact Us
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/pinnia.ca/
+      - icon: twitter
+        href: https://twitter.com
+      - icon: envelope
+        href: mailto:Khuranasoilpau@gmail.com
+
+format:
+  html:
+    smooth-scroll: true
+    theme: journal
+    css: styles.css
+    link-external-icon: false
+    link-external-newwindow: true
+    #link-external-filter: '^(?:http:|https:)\/\/www\.ilovesoils\.com\/**'
+    citations-hover: true
+    footnotes-hover: true
+    toc: true
+    code-link: true
+
+editor: visual
+
+
+

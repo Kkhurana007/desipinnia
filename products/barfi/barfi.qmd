@@ -1,0 +1,8 @@
+---
+title: "Barfi"
+description: 'Barfi is a rich and creamy Indian sweet made from condensed milk, sugar, and flavorings like cardamom, garnished with nuts or silver leaf.'
+categories: [Barfi, Khoya]
+image: "burfi.png"
+---
+
+![](burfi.png){.nolightbox fig-align="center" style="margin-top: 0px; width: 800px; height: auto;"}

@@ -1,0 +1,8 @@
+---
+title: "Ladoo"
+description: 'Indulge in the sweetness of tradition with our handcrafted ladoos, perfect for every celebration and sweet craving!'
+categories: [Ladoo, Khoya]
+image: "laddu.jpg"
+---
+
+![](laddu.jpg){.nolightbox fig-align="center" style="margin-top: 0px; width: 800px; height: auto;"}

@@ -1,0 +1,72 @@
+{
+  "about.qmd": {
+    "about.html": "09d87113"
+  },
+  "index.qmd": {
+    "index.html": "bd5f84c5",
+    "index.tex": "f705c670"
+  },
+  "404.qmd": {
+    "404.html": "80ce27c6"
+  },
+  "contact.qmd": {
+    "contact.html": "02950028"
+  },
+  "gallary.qmd": {
+    "gallary.html": "d94560b8"
+  },
+  "home.qmd": {
+    "home.html": "f0e08b2c"
+  },
+  "products/barfi/barfi.qmd": {
+    "barfi.html": "d14fa786"
+  },
+  "products/index.qmd": {
+    "index.html": "31093d5c"
+  },
+  "products/khoya/khoya.qmd": {
+    "khoya.html": "0483b21b"
+  },
+  "products/ladoo/ladoo.qmd": {
+    "ladoo.html": "360c9498"
+  },
+  "products/pinnian/pinnian.qmd": {
+    "pinnian.html": "faba02f3"
+  },
+  "docs/products/barfi/barfi.qmd": {
+    "barfi.html": "394c7cce"
+  },
+  "ethics.qmd": {
+    "ethics.html": "51072a6b"
+  },
+  "policy.qmd": {
+    "policy.html": "a78e0c3e"
+  },
+  "terms.qmd": {
+    "terms.html": "48d73e46"
+  },
+  "docs/terms.qmd": {
+    "terms.html": "10366197"
+  },
+  "docs/docs/docs/docs/products/barfi/barfi.qmd": {
+    "barfi.html": "3e9aba5a"
+  },
+  "docs/docs/docs/docs/docs/products/barfi/barfi.qmd": {
+    "barfi.html": "a5d22b46"
+  },
+  "docs/docs/docs/products/barfi/barfi.qmd": {
+    "barfi.html": "2d5baa49"
+  },
+  "docs/docs/docs/docs/docs/docs/docs/docs/products/barfi/barfi.qmd": {
+    "barfi.html": "e1a66d6b"
+  },
+  "docs/docs/docs/docs/docs/docs/docs/docs/docs/docs/docs/docs/docs/products/barfi/barfi.qmd": {
+    "barfi.html": "b08dc915"
+  },
+  "products/test.qmd": {
+    "test.html": "e78a432b"
+  },
+  "products/til_ladoo/til_ladoo.qmd": {
+    "til_ladoo.html": "b30296fe"
+  }
+}

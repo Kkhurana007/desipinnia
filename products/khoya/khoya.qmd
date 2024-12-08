@@ -1,0 +1,8 @@
+---
+title: "Barfi"
+description: 'Savor the rich, creamy delight of our premium khoya, crafted to elevate your desserts and celebrations!'
+categories: [Sweets, Khoya]
+image: "khoya.jpg"
+---
+
+![](khoya.jpg){.nolightbox fig-align="center" style="margin-top: 0px; width: 800px; height: auto;"}

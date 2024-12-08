@@ -1,0 +1,21 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "posts/**/*/**.qmd",
+      "posts/**/*/**.ipynb",
+      "B3049D40",
+      "products/**/*/**.qmd",
+      "products/**/*/**.ipynb",
+      "**/*/**.qmd",
+      "**/*/**.ipynb"
+    ],
+    "products\\index.qmd": [
+      "**/*/**.qmd",
+      "**/*/**.ipynb"
+    ],
+    "products\\test.qmd": [
+      "**/*/**.qmd",
+      "**/*/**.ipynb"
+    ]
+  }
+}

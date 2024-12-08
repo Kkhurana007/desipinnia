@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+
+![](about.png){.nolightbox fig-align="center" style="margin-top: 0px; width: 800px; height: auto;"}
+
+
+Desi Pinnian is a beloved traditional snack from South Asia, particularly popular in India. These nutrient-dense sweet balls are crafted from roasted and ground sesame seeds, jaggery (or sugar), and sometimes nuts like almonds and pistachios. Known for their unique texture and earthy flavor, Desi Pinnian are often prepared during winter months for their warming properties and energy-boosting benefits. Beyond being a treat, they are celebrated for their cultural significance, frequently featured in festivals, family gatherings, and as a nostalgic reminder of homemade culinary traditions passed through generations.
